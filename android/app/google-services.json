@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999937978443",
+    "firebase_url": "https://smarthousing-c80d3.firebaseio.com",
+    "project_id": "smarthousing-c80d3",
+    "storage_bucket": "smarthousing-c80d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999937978443:android:3842171ee83275f1b0ddce",
+        "android_client_info": {
+          "package_name": "com.example.SmartHousingSociety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999937978443-2j95cj8c88qriqcqv235h82v83fqtk3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_tYPH-NAh4iJESfiGtuBMQxZE3h6lD9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999937978443-2j95cj8c88qriqcqv235h82v83fqtk3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
