@@ -13,21 +13,6 @@ class _SignUpState extends State<SignUp> {
   final _formkey = GlobalKey<FormState>();
   String name, age, hno, mobno, nomem, email, password;
 
-  // Future<void> tryToUpdate() async{
-  //   if (_formkey.currentState.validate()) {
-  //                     // await Firebase.initializeApp();
-  //                    final response= await FirebaseFirestore.instance.collection('users').add({
-  //                       'Name': name,
-  //                       'Age': age as int,
-  //                       'House_No': hno,
-  //                       'Mobile_No': mobno,
-  //                       'No_Of_Members': nomem as int,
-  //                       'Email': email,
-  //                       'Password': password,
-  //                     });
-
-  // }
-  // }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
